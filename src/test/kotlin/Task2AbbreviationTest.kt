@@ -9,6 +9,7 @@ class Task2AbbreviationTest {
     @Test
     fun testAbbreviation1() {
         assertEquals("YES", converter.abbreviationFromA("daBcd", "ABC"))
+//        converter.abbreviationFromA("daBcd", "ABC")
     }
 
     @Test
